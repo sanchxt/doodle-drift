@@ -80,7 +80,7 @@ export const Actions = ({
             variant="ghost"
             className="p-3 cursor-pointer text-sm w-full justify-start font-normal"
           >
-            <Trash2 className="h-4 w-4 mr-2" /> Delete board
+            <Trash2 className="h-4 w-4 mr-2" /> Delete
           </Button>
         </ConfirmModal>
       </DropdownMenuContent>
